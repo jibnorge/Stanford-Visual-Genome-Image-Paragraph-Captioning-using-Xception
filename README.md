@@ -259,3 +259,6 @@ This project builds a **deep learning-based paragraph captioning system** by com
 - **GloVe embeddings** for improved word representations.
 - Custom training pipeline to predict **multi-line descriptions** of complex scenes.
 
+## References
+- https://xiangyutang2.github.io/image-captioning/
+
