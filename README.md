@@ -10,8 +10,8 @@ The goal of this project is to build a deep learning model capable of generating
 
 ## 📊 Dataset
 
-This project uses a subset of the **Visual Genome dataset**, which contains around **20,000 images**, each labeled with a **descriptive paragraph** [Stanford Image Paragraph Captioning Dataset
-](https://www.kaggle.com/datasets/vakadanaveen/stanford-image-paragraph-captioning-dataset). For training purposes, we use a subset of **5,000 image-paragraph pairs**.
+This project uses [Stanford Image Paragraph Captioning Dataset
+](https://www.kaggle.com/datasets/vakadanaveen/stanford-image-paragraph-captioning-dataset) a subset of the **Visual Genome dataset**, which contains around **20,000 images**, each labeled with a **descriptive paragraph**. For training purposes, we use a subset of **5,000 image-paragraph pairs**.
 
 Each image is associated with a paragraph caption that acts as a training label.
 
